@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+
+body {
+        text-align: center;
+        background: #313233;
+        color: whitesmoke;
+        font-family: 'Caveat', cursive;
+}
+
+h1 {
+        font-size: 5em;
+}
